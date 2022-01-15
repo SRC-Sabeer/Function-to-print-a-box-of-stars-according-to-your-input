@@ -1,0 +1,30 @@
+
+// #include<iostream>
+// #include<conio.h>
+// using namespace std;
+
+// int stars(int height, int length)
+// {
+    
+//     int i,j;
+//     for(i = 1; i <= height; i++)
+//     {
+//         for(j = 1; j <= length; j++)
+//         {
+//             cout << "#";
+//         }
+//         cout << endl;
+//     }
+//     return 0;
+// }
+
+
+// int main()
+// {
+//     int lstar,hstar;
+//     cout << "Enter the length of the stars \n \t" << endl;
+//     cin >> lstar;
+//     cout << "Enter the height of the stars \n \t " << endl;
+//     cin >> hstar;
+//     stars(hstar, lstar);
+// }
